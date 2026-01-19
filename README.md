@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Major Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/revswrld/LAB)
+- [Active Directory Home Lab](https://github.com/revswrld/AD-Lab)
 
 <h2>🛠️ Certifications </h2>
 
