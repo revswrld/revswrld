@@ -15,7 +15,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Riley Suddeth | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Riley Suddeth | LinkedIn" width="22px" src="https://static.cdnlogo.com/logos/l/78/linkedin-icon.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/rileysuddeth
 
