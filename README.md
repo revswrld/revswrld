@@ -1,3 +1,4 @@
+<div style= max-width: 900px; margin: auto; line-height: 1.6;">
 <h1>Hi, I'm Riley!</h1>
 
 <h2>👨‍💻 Major Projects:</h2>
@@ -18,3 +19,4 @@
 [<img align="left" alt="Riley Suddeth | LinkedIn" width="22px" src="https://static.cdnlogo.com/logos/l/78/linkedin-icon.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/rileysuddeth
+</div>
